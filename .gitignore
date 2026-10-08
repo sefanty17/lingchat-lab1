@@ -1,0 +1,19 @@
+# 依赖与构建产物
+node_modules/
+dist/
+target/
+src-tauri/target/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地环境
+.env
+.env.local
